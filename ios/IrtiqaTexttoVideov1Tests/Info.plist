@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>en</string>
+        <key>CFBundleExecutable</key>
+        <string>$(EXECUTABLE_NAME)</string>
+        <key>CFBundleIdentifier</key>
+        <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundleName</key>
+        <string>$(PRODUCT_NAME)</string>
+        <key>CFBundlePackageType</key>
+        <string>BNDL</string>
+        <key>CFBundleShortVersionString</key>
+        <string>1.0</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>CFBundleVersion</key>
+        <string>1</string>
+        <key>UIAppFonts</key>
+        <array>
+          <string>MaterialIcons.ttf</string>
+          <string>MaterialCommunityIcons.ttf</string>
+          		<string>Urbanist-Light.ttf</string>
+		<string>Urbanist-Regular.ttf</string>
+		<string>Urbanist-Medium.ttf</string>
+		<string>Urbanist-SemiBold.ttf</string>
+		<string>Urbanist-Bold.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+		<string>Rubik-Medium.ttf</string>
+		<string>SourceCodePro-SemiBold.ttf</string>
+		<string>PlusJakartaSans-Regular.ttf</string>
+		<string>PlusJakartaSans-Medium.ttf</string>
+		<string>Roboto-Regular.ttf</string>
+		<string>Mada-Regular.ttf</string>
+		<string>Inter-Regular.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>Poppins-Bold.ttf</string>
+		<string>Manrope-SemiBold.ttf</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </array>
+    </dict>
+    </plist>
